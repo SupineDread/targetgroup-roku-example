@@ -6,8 +6,8 @@
             "request": "launch",
             "name": "BrightScript Debug: Launch",
             "stopOnEntry": false,
-            "host": "192.168.100.154",
-            "password": "fuad3823",
+            "host": "",
+            "password": "",
             "rootDir": "${workspaceFolder}",
             "enableDebuggerAutoRecovery": false,
             "stopDebuggerOnAppExit": false
